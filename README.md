@@ -10,7 +10,7 @@ conan create . drowsysaturn/stable
 
 Inside of your conanfile.txt, add under [requires]
 ```
-PDCurses/3.8@drowsysaturn/stable
+pdcurses/3.8@drowsysaturn/stable
 ```
 
 Your project should now be able to use PDCurses.
